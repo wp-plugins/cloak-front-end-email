@@ -15,7 +15,7 @@ Plugin is easy to use: just install it, use short code [email] and it just works
 
 Simple and easy to use plugin for displaying your email on the front end of your website safely and securely through JavaScript cloaking. Email that is displayed is the email you have setup as your admin email in WordPress General Settings. Source code does not show your actual email address which keeps scrapers from email harvesting and putting you on their email spam lists.
 
-Source code will look like this: <a href="#"><span class="cfe-jsemail">enable javascript</span></a>
+Source code will look like this: &lt;a href="#"&gt;&lt;span class="cfe-jsemail"&gt;enable javascript&lt;/span&gt;&lt;/a&gt;
 
 *Note: If users have javascript disabled on their browser they will get text saying "enable javascript" in place of the actual email.
 

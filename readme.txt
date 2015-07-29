@@ -1,6 +1,6 @@
 === Cloak Front End Email ===
 Contributors: webbernaut
-Tags: email cloaking, front end email, javascript email, mailto
+Tags: email cloaking, front end email, javascript email, antispam, bot, crawl, e-mail, email, email address, encrypt, harvest, harvesting, hide, mail, mailto, obfuscate, protect, protection, robots, secure, security, spam, spambot, spider
 Requires at least: 3.0.1
 Tested up to: 4.2.3
 Stable tag: 1
